@@ -90,17 +90,7 @@ git clone https://github.com/93Cast/ConversorDeMonedas.git
 
 4. Ejecutar la aplicación en un emulador o dispositivo físico.
 
-## 📸 Capturas de pantalla
 
-Agregar aquí las capturas de pantalla de la aplicación funcionando.
-
-### Pantalla principal
-
-![Pantalla Principal](screenshots/home.png)
-
-### Conversión realizada
-
-![Conversión](screenshots/conversion.png)
 
 ## ✅ Validaciones implementadas
 
